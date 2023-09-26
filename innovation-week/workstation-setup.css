@@ -1,0 +1,19 @@
+/* Add Bootstrap classes and custom styling here */
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .btn {
+    margin: 0.5rem;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  /* Add any other custom CSS rules here */
+  
